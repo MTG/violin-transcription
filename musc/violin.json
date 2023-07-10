@@ -1,0 +1,13 @@
+{ "model_file": "1FfUjC3usmZBoTxNT6rNVIcYw4pol4K1g",
+  "wiring": "parallel",  
+  "sampling_rate": 44100, 
+  "pathway_multiscale": 4, 
+  "num_pathway_layers": 2, 
+  "num_separator_layers": 16, 
+  "num_representation_layers": 4, 
+  "hop_length": 256, 
+  "chunk_size": 512, 
+  "minSNR": -32, "maxSNR": 96, 
+  "note_low": "F#3", "note_high": "E8", 
+  "f0_bins_per_semitone": 10, "f0_smooth_std_c": 12, "onset_smooth_std": 0.7
+}
