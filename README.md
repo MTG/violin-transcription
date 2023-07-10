@@ -1,5 +1,6 @@
-# violin-transcription
-# <a href="https://githubtocolab.com/MTG/violin-transcription/blob/main/demo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> High-Resolution Violin Transcription using Weak Labels
+
+# High-Resolution Violin Transcription using Weak Labels 
+<a href="https://githubtocolab.com/MTG/violin-transcription/blob/main/demo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> 
 
 The violin transcription model and the dataset accompanying the paper: 
 ```
