@@ -1,4 +1,4 @@
-
+![Thumbnail](web_content/thumbnail.png)
 # High-Resolution Violin Transcription using Weak Labels 
 <a href="https://githubtocolab.com/MTG/violin-transcription/blob/main/demo.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a> 
 
